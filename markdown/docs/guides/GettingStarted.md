@@ -24,7 +24,7 @@ During this process, you will receive a verification on your uPort mobile app, a
 
 Your application identities are tied to your Ethereum address – created with the uPort mobile app. They are stored as a verification and their configuration can be viewed within the mobile device, simply click on *verification* to inspect it.
 
-## Buidl
+## Build
 
 From here, the world is your oyster for building **client-side** solutions using Uport Connect. Please check out the rest of our uport-connect [guides](/uport-connect/guides/usage) and [tutorials](/uport-connect/guides/tutorial).  For more specific examples check out our [Verifying Credentials](/attestcredentials) and [Requesting Credentials](/requestcredentials) guides.
 
